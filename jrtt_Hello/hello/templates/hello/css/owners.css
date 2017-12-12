@@ -1,0 +1,23 @@
+*{margin:0px;
+    padding:0px;
+    font:12px Arial,宋体;
+    text-align:center;
+    }
+#container
+{
+wideth:960px;
+    text-align:left;
+    Margin-left:auto;
+    Margin-right:auto;
+}
+#header
+{
+    font:48px 微软雅黑;
+    text-align:right;
+}
+#footer
+{
+    width:500px;
+    height:300px;
+    background-color: #FF0000;
+}
