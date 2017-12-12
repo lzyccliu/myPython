@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% for BlogsPost in BlogsPosts %}
+<h2>{{BlogsPost.text}}</h2>
+<p>{{BlogsPost.date_added}}</p>
+<p>{{BlogsPost}}</p>
+{% endfor %}
+This is index.html
+</body>
+</html>
