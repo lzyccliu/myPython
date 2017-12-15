@@ -46,4 +46,8 @@ class Comment(models.Model):
         verbose_name="评论"
         verbose_name_plural=verbose_name
     def __str__(self):
-        return self.content
+        #clen = self.content
+        if len(self.content) > 50:
+            return self.content[:50] + "..."
+        else:
+            return self.content

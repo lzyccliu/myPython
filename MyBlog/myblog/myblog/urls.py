@@ -20,5 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('blog.urls')),             #这里''表示127.0.0.1:8000/路径，如果'blog'表示127.0.0.1:8000/blog/
     path('blog/',include('blog.urls')),
-    path('detail/',include('blog.urls'))
+    #path('detail/',include('blog.urls'))
 ]
