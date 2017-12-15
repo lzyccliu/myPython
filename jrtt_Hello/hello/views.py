@@ -5,10 +5,12 @@ from .models import Owner
 
 def index(request):
     template = ('hello/index.html')
-    return render(request,template)
-
-def hello(request):
-    """显示所有主人"""
     owners = Owner.objects.all()
-    context = {'owners': owners}
-    return render(request,'hello/owners.html',context)
+    context= {'index': index}
+    return render(request,request,template,context)
+
+# def hello(request):
+#     """显示所有主人"""
+#     owners = Owner.objects.all()
+#     context = {'owners': owners}
+#     return render(request,'hello/owners.html',context)

@@ -1,10 +1,38 @@
-#coding=utf-8
-from django.shortcuts import render
-from .models import BlogsPost
-from django.shortcuts import render_to_response
+from django.shortcuts import render,render_to_response
+from .models import *
+
+from .forms import CommentForm
+from django.http import Http404
 
 # Create your views here.
+
 def index(request):
-    blog_list = BlogsPost.objects.all()         #获取数据库里面所拥有BlogPost对象
-    context ={'BlogsPost':BlogsPost}
-    return render(request,'index.html',context)         #返回一个页面(index.html)，顺带把数据库中查询出来的所有博客内容（blog_list）也一并返回。
+    context={}
+    context['hello'] ='Hello World!'
+    return render(request,'index.html',context)
+
+def get_blogs(request):
+    blogs = Blog.objects.all().order_by('-pub')     #获得所有的博客按时间排序
+    return render_to_response('blog_list.html',{'blogs':blogs})     #传递context:blog参数到固定页面
+
+def get_details(request,blog_id):
+    #检查异常
+    try:
+        blog=Blog.objects.get(id=blog_id)       #获取固定的blog_id的对象；
+    except Blog.DoesNotExist:
+        raise Http404
+
+    if request.method =='GET':
+        form = CommentForm()
+    else:                                       #请求方法为POST
+        form = CommentForm(request.POST)
+        if form.is_valid():
+            cleaned_data = form.cleaned_data
+            cleaned_data['blog']=blog
+            Comment.objects.create(**cleaned_data)
+    ctx={
+        'blog':blog,
+        'comments':blog.comment_set.all().order_by('pub'),
+        'form':form
+    }                                           #返回3个参数
+    return render(request,'blog_details.html',ctx)
