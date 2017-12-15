@@ -8,7 +8,7 @@ from django.http import Http404
 
 def index(request):
     context={}
-    context['hello'] ='Hello World!'
+    context['hello'] ='Mr.刘的博客'
     return render(request,'index.html',context)
 
 def get_blogs(request):
