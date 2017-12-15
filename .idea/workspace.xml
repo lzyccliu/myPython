@@ -2,100 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d01d448d-d6d7-4233-804b-02bb1f320eb1" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_asyncio.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_bz2.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_ctypes.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_ctypes_test.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_decimal.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_elementtree.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_hashlib.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_lzma.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_msi.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_multiprocessing.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_overlapped.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_socket.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_sqlite3.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_ssl.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_testbuffer.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_testcapi.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_testconsole.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_testimportmultiple.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_testmultiphase.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/_tkinter.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-console-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-datetime-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-debug-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-errorhandling-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-file-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-file-l1-2-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-file-l2-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-handle-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-heap-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-interlocked-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-libraryloader-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-localization-l1-2-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-memory-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-namedpipe-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-processenvironment-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-processthreads-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-processthreads-l1-1-1.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-profile-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-rtlsupport-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-string-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-synch-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-synch-l1-2-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-sysinfo-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-timezone-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-core-util-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-conio-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-convert-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-environment-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-filesystem-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-heap-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-locale-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-math-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-multibyte-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-private-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-process-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-runtime-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-stdio-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-string-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-time-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/api-ms-win-crt-utility-l1-1-0.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/concrt140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/msvcp140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/pyexpat.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/python.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/python3.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/python36.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/pythoncom36.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/pythonw.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/pywintypes36.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/select.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/sqlite3.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/tcl86t.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/tk86t.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/ucrtbase.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/unicodedata.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/vccorlib140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/vcomp140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/vcruntime140.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/winsound.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/xlwings32.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Scripts/xlwings64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/myPython.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/MyBlog/blog/templates/blog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/MyBlog/blog/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/learning_log/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/learning_log/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/learning_log/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/learning_log/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/Lib/tcl8.6/init.tcl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/ll_env/pyvenv.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning_log/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/.idea/myblog.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/templates/blog/blog_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/templates/blog/blog_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/templates/blog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/views.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/migrations/0002_auto_20171211_1332.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/templates/blog/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/views.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/MyBlog/__init__.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/MyBlog/settings.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/myblog/settings.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/MyBlog/urls.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/myblog/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/MyBlog/wsgi.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/myblog/wsgi.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/__init__.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/migrations/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/apps.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/apps.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/migrations/__init__.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/myblog/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/blog/tests.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/blog/tests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/db.sqlite3" afterPath="$PROJECT_DIR$/MyBlog/myblog/db.sqlite3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MyBlog/MyBlog/manage.py" afterPath="$PROJECT_DIR$/MyBlog/myblog/manage.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -105,96 +42,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/MyBlog/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="59" column="61" lean-forward="false" selection-start-line="59" selection-start-column="61" selection-end-line="59" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="38" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="20" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding>
-                <element signature="e#14#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/templates/blog/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/MyBlog/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding>
-                <element signature="e#630#662#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -227,7 +75,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="211" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
@@ -266,38 +114,14 @@
               <item name="myPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="myPython" type="462c0819:PsiDirectoryNode" />
               <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="myPython" type="462c0819:PsiDirectoryNode" />
               <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myPython" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myPython" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myPython" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,28 +168,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25305623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -381,91 +204,133 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learning_log/learning_log/learning_log/urls.py">
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/myblog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning_log/learning_log/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/MyBlog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/MyBlog/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="1121">
           <caret line="59" column="61" lean-forward="false" selection-start-line="59" selection-start-column="61" selection-end-line="59" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/urls.py">
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/templates/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="380">
           <caret line="20" column="38" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="20" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyBlog/MyBlog/blog/views.py">
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="152">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/templates/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/myblog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#14#49#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_log/learning_log/learning_log/urls.py" />
+    <entry file="file://$PROJECT_DIR$/learning_log/learning_log/manage.py" />
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/myblog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/myblog/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="61" lean-forward="false" selection-start-line="59" selection-start-column="61" selection-end-line="59" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/templates/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="20" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog/myblog/blog/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
